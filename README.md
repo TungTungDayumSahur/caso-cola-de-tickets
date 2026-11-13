@@ -1,1 +1,0 @@
-# caso-automatiza-de-tickets
